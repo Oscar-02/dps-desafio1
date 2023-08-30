@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "fistName": "Sara",
+      "lastName": "Smith",
+      "phone": "123-456-7890"
+    },
+    {
+      "fistName": "John",
+      "lastName": "Doe",
+      "phone": "123-456-7890"
+    },
+    {
+      "fistName": "Jane",
+      "lastName": "Doe",
+      "phone": "123-456-7890"
+    }
+  ]
+}
